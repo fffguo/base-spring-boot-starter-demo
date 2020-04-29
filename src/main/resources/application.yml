@@ -1,0 +1,4 @@
+base:
+  ding:
+    web-hook: https://oapi.dingtalk.com/robot/send?access_token=739cee21357169a79a97ebf6cec7e5d01a7f46b9f7a3fd75ab2dada541b0e009
+    secret: SECc1fcf0b97789885185d674602698659829c12aa128a6fef0f0de7f18c168f5a5
